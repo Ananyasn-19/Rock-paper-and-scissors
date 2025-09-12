@@ -1,0 +1,9 @@
+# Ask user to make a choice
+# Ff the choice is invalid
+#    print enter valid choice
+# Let the computer to make choice
+# Print choice(emoji)
+# Determine the winner
+# Ask if the user want to continue the game
+# If no
+#     terminate
