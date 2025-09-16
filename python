@@ -11,6 +11,22 @@
 import random
 choices=('r', 'p', 's')
 emojis={'r':'🪨', 'p':'📃', 's':'✂️'}
+def get_user_choice():
+        while True:
+                user_choice=input("Rock, paper or scissors (r,p,s)?")
+                if user_choice in choices:
+                        return user_choice
+                else:
+                        print("invalid choice")
+
+
+
+
+
+
+
+
+
 while True:
     user_choice=input("Rock, paper or scissors (r,p,s)?")
     if(user_choice not in choices):
