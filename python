@@ -7,7 +7,7 @@
 # Ask if the user want to continue the game
 # If no
 #     terminate
-refor
+reformating and
 
 import random
 choices=('r', 'p', 's')
